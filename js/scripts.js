@@ -16,7 +16,7 @@ $(document).ready(function() {
       }
 
       function results() {
-        return nameInput + "you got" + correct;
+        return nameInput + " you got " + correct;
       }
 
       var correct = 0
@@ -46,7 +46,7 @@ $(document).ready(function() {
         correct += 0;
       }
     var messages = ["congrats", "passed", "It is important you repeat this test"]
-		var photo = ["img/congrats.jpg", "img/pass.jpg", "images/fail.jpg", ]
+		var photo = ["img/congrats.jpg", "img/pass.jpg", "img/fail.jpg" ]
 		var score;
 		if (correct >= 80) {
 			score = 0;
