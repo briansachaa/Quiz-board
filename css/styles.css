@@ -1,3 +1,9 @@
 h1 {
  text-align: center;
 }
+.jumbotron {
+  background-color: #D5AE41;
+}
+.container {
+  background-color: #766f57;
+}
