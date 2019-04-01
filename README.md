@@ -5,19 +5,28 @@ Quiz Board
  Quiz Board is an online application that allows a user to input their sign up details they are redirected to answer some questions then submit the answers. The application will then evaluate if the answers were correct and give the score of the questions gotten correct with the name of the user. If the user fails the test it gives them a chance to redo the test.
 
 ## Author
- *Sang Brian Cheruiyot
- *Third independent project,29/3/2019
+
+*Sang Brian Cheruiyot
+
+*Third independent project,29/3/2019
 
 ## Technologies Used
- *HTML5
- *CSS
- *Bootstrap
- *JavaScript and jQuery
+*HTML5
+
+*CSS
+
+*Bootstrap
+
+*JavaScript and jQuery
 
 ## Setup/Installation
+
 *Make sure your computer has an editor you can use atom(preferred), sublime text or notepad++
+
 *Make sure your browser is Javascript enabled. Preferably use Chrome or Mozilla Firefox.
+
 *You can use githubs gh-pages to host the website on your computer
+
 *No Jquery or Javascript libraries required
 Since it made using Simple Javascript and jQuery functionality, HTML and CSS it should be easy use, modify and understand. There is no database or server setup for this code hence it should be smooth and easy to use.
 
